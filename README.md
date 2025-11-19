@@ -6,7 +6,7 @@ I am interested in programming, photography, graphic design, and learning new te
 In my free time, I enjoy skiing and snowboarding, and I am the Media Officer of the Rural Youth Kremsmünster.
 
 
-<br><br><br><br>
+<br><br>
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lj.kremsmuenster) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miriam.gnadlinger@gmail.com) 
