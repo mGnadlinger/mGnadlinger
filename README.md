@@ -3,7 +3,7 @@ I am a student at HTBLA Leonding - IT Media Technology.
 
 I am interested in programming, photography, graphic design, and learning new technologies.
 
-In my free time, I enjoy skiing and snowboarding, and I am the Media Officer of the Rural Youth Kremsmünster.
+In my free time, I enjoy skiing and snowboarding, and I am the Media Officer of "Landjugend Kremsmünster".
 
 
 <br><br>
