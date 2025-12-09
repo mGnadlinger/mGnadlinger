@@ -6,6 +6,13 @@ I am interested in programming, photography, graphic design, and learning new te
 In my free time, I enjoy skiing and snowboarding, and I am the Media Officer of "Landjugend Kremsmünster".
 
 
+## Current Project
+I am currently working on **MusicVoting**, a school project focused on building a web-based music voting platform.  
+GitHub: [MusicVoting Repository](https://github.com/2526-4ahitm-itp/2526-4ahitm-music-voting)
+
+
+
+
 <br><br>
 
 ## Socials:
